@@ -1,0 +1,38 @@
+title: >
+    Cerrajeros Siero
+email: >
+    your-email@domain.com
+description: >
+    En https://reparacionesbilbao.com/cerrajeros-siero/ encontraras a los profesionales que te ayudaran a resolver los problemas de cerrajería. Disponibles las 24 horas, los 365 días del año para ofrecer una atención de primera.
+
+baseurl: "/"
+url: http://keralahost.in/carlofuente
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: >
+    Cerrajeros Siero
+
+date: 2019-03-20 15:15:02 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/carlofuente/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: >
+    
+author_image: >
+    
+
+author: >
+    carlofuente
